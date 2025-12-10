@@ -5,3 +5,5 @@ Config/DefaultEditorPerProjectUserSettings.ini
 UITest.uproject.DotSettings.user
 Plugins/Developer/RiderLink/
 Saved/
+.vs/*
+.vsconfig
